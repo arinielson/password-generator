@@ -1,9 +1,7 @@
-# week-02-challenge-password-generator
+# Password Generator
 
 ## Description
 JavaScript Password Generator
-
-# 03 JavaScript: Password Generator
 
 ## User Story
 
@@ -41,9 +39,9 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-GitHub: https://github.com/arinielson/week-02-challenge-password-generator.git
+GitHub: https://github.com/arinielson/password-generator.git
 
-Website: https://arinielson.github.io/week-02-challenge-password-generator/
+Website: https://arinielson.github.io/password-generator/
 
 
 ## Credits
