@@ -41,7 +41,7 @@ The following image shows the web application's appearance and functionality:
 
 GitHub: https://github.com/arinielson/password-generator.git
 
-Website: https://arinielson.github.io/password-generator/
+Website: https://arinielson.github.io/password-generator/index.html
 
 
 ## Credits
